@@ -13,7 +13,7 @@ public class Main {
         try {
             sorolvaso = new BufferedReader(new FileReader("wordlist.txt"));
             String sor;
-            List<String> stringtömb;
+           
 
 
             while ((sor= sorolvaso.readLine()) != null){
